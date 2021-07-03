@@ -12,6 +12,7 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
 - 💬 Ask me about Testing/Test Automation/Quality Assurance
 - 😄 Pronouns: He/Him
 
+<br>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/amitsantra19/">
