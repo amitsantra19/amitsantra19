@@ -1,7 +1,7 @@
 # Hi folks! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/>
 I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Engineer, Interested to learn new things and doing POCs, ready for discussions and making new projects and framework design for Test Automation, write blogs on Testing and automation Testing.
 
-<img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQGcDpkYdmrQcQ/profile-displayphoto-shrink_200_200/0/1610101843343?e=1630540800&v=beta&t=Ck6t0bsk5z7aM514aDQpufzlgoHlZNt_GN5Bj0Opadg">
+<img align="left" width="180" height="240" src="https://github.com/amitsantra19/amitsantra19/blob/main/Amit_20200515%20(2).jpg?raw=true">
 
 ### About Me :man:
 
