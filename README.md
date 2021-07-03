@@ -1,20 +1,31 @@
-### Hi folks! 👋
-
+# Hi folks! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/>
 I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Engineer, Interested to learn new things and doing POCs, ready for discussions and making new projects and framework design for Test Automation, write blogs on Testing and automation Testing.
+
+<img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQGcDpkYdmrQcQ/profile-displayphoto-shrink_200_200/0/1610101843343?e=1630540800&v=beta&t=Ck6t0bsk5z7aM514aDQpufzlgoHlZNt_GN5Bj0Opadg">
 
 ### About Me :man:
 
 - 🔭 I’m currently working on Test Auomation for Desktop, Web & Mobile Apps.
-- 🌱 I’m currently learning Java, Appium, Browser Automation on desktop App(build on NWJS/Electron JS) & Performance Testing.
+- 🌱 I’m currently learning Java, Appium, Browser Automation on desktop App(build on NWJS/Electron JS) & Performance Testing & BackEnd Automation.
 - 👯 I’m looking to collaborate on Test Automation/knowledge Sharing 
 - 🤔 I’m looking for help with Headless Broswer Automation/Invisble Browser Automation on desktop App
 - 💬 Ask me about Testing/Test Automation/Quality Assurance
 - 😄 Pronouns: He/Him
 
+
 ### Connect With Me
 <a href="https://www.linkedin.com/in/amitsantra19/">
-  <img align="left" alt="Amit's LinkedIn" width="36px" src="https://img.icons8.com/nolan/96/linkedin.png"/>
-</a>  
+  <img align="left" alt="Amit's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
+</a> 
+<a href="mailto:mailme.amitsantra@gmail.com">
+  <img align="left" alt="Amit's Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
+</a>
+<a href="https://stackoverflow.com/users/13692427/amit-kumar-santra">
+  <img align="left" alt="Amit's stackoverflow" width="40px" src="https://img.icons8.com/color/2x/stackoverflow.png"/> 
+</a> 
+<a href="https://amitsantra19.medium.com/">
+  <img align="left" alt="Amit's Medium" width="40px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-128.png"/>
+</a>
 
 <br>
 
