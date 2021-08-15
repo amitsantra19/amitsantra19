@@ -40,11 +40,11 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
 ### Frameworks
 <p align="left">
   <img height="40"  alt= "Selenium" src="https://img.icons8.com/officel/2x/selenium-test-automation.png"/> Selenium 
-  <img height="40" alt= "Appium" src="https://pics.freeicons.io/uploads/icons/png/2832550721536125460-64.png"/> Appium
+  <img height="40" alt= "Appium" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/2832550721536125460-64.png"/> Appium
   <img height="40"  alt= "WinAppDriver" src="https://img.icons8.com/color/2x/windows-10.png"/> WinAppDriver
   <img height="40"  alt= "TestNG" src="https://cdn-anlbg.nitrocdn.com/dKKErbUyoNysjatCgltCzbTJJilTMwLi/assets/static/optimized/rev-707c49b/wp-content/uploads/2016/12/TestNG-e1483024713865.png"/> TestNG
   <img height="40"  alt= "nunit" src="https://nunit.org/img/nunit.svg"/> nUnit
-  <img height="40"  alt= "ASpNet" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"/> ASP.NET
+  <img height="40"  alt= "ASP.Net" src=https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"/> ASP.NET
   <img height="40"  alt= "RestAssured" src="https://rest-assured.io/img/logo-transparent.png"/> RestAssured
 </p>
 
@@ -60,7 +60,7 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
   <img height="40"  alt= "Jira" src="https://img.icons8.com/color/2x/jira.png"/> JIRA
   <img height="40"  alt= "Team Foundation Server" src="https://img.icons8.com/color/2x/azure-1.png"/> TFS
   <img height="40"  alt= "TestRail" src="https://static.testrail.io/7.1.2.1044/images/layout/testrail-logo.svg"/> TestRail
-  <img height="40"  alt= "PostMan" src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-64.png"/> Postman
+  <img height="40"  alt= "PostMan" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png"/> Postman
   <img height="40"  alt= "JMeter" src="https://jmeter.apache.org/images/asf-logo.svg"/> JMeter
   <img height="40"  alt= "git" src="https://img.icons8.com/color/2x/git.png"/> Git
   <img height="40"  alt= "Bitbucket" src="https://img.icons8.com/color/2x/bitbucket.png"/> Bitbucket
