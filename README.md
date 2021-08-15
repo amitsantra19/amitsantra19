@@ -44,7 +44,7 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
   <img height="40"  alt= "WinAppDriver" src="https://img.icons8.com/color/2x/windows-10.png"/> WinAppDriver
   <img height="40"  alt= "TestNG" src="https://cdn-anlbg.nitrocdn.com/dKKErbUyoNysjatCgltCzbTJJilTMwLi/assets/static/optimized/rev-707c49b/wp-content/uploads/2016/12/TestNG-e1483024713865.png"/> TestNG
   <img height="40"  alt= "nunit" src="https://nunit.org/img/nunit.svg"/> nUnit
-  <img height="40"  alt= "ASP.Net" src=https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"/> ASP.NET
+  <img height="40"  alt= "ASP.Net" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"/> ASP.NET
   <img height="40"  alt= "RestAssured" src="https://rest-assured.io/img/logo-transparent.png"/> RestAssured
 </p>
 
