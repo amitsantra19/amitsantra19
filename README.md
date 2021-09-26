@@ -6,7 +6,7 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
 ### About Me :man:
 
 - 🔭 I’m currently working on Test Auomation for Desktop, Web & Mobile Apps.
-- 🌱 I’m currently learning Java, Appium, Browser Automation on desktop App(build on NWJS/Electron JS) & Performance Testing & BackEnd Automation.
+- 🌱 I’m currently learning Java, Appium, SikuliX-Browser Automation on desktop App(build on NWJS/Electron JS) & Performance Testing & BackEnd Automation.
 - 👯 I’m looking to collaborate on Test Automation/knowledge Sharing 
 - 🤔 I’m looking for help with Headless Broswer Automation/Invisble Browser Automation on desktop App
 - 💬 Ask me about Testing/Test Automation/Quality Assurance
