@@ -1,5 +1,5 @@
 # Hi folks! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/>
-I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Engineer, Interested to learn new things and doing POCs, ready for discussions and making new projects and framework design for Test Automation, write blogs on Testing and automation Testing.
+I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Engineer, Interested to learn new things and doing POCs on different automation framwork, ready for discussions and making new projects and framework design for Test Automation, write blogs on Testing and automation Testing.
 
 <img align="left" width="180" height="240" src="https://github.com/amitsantra19/amitsantra19/blob/main/Amit_20200515%20(2).jpg?raw=true">
 
@@ -43,6 +43,7 @@ I am Amit from Bangalore. I am Currently working as a SDET/Quality Assurance Eng
   <img height="40" alt= "Appium" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/2832550721536125460-64.png"/> Appium
   <img height="40"  alt= "WinAppDriver" src="https://img.icons8.com/color/2x/windows-10.png"/> WinAppDriver
   <img height="40"  alt= "SikuliX" src="https://sikulix.github.io/img/logo.svg"/> SikuliX
+  <img height="40"  alt= "UiPath" src="https://seeklogo.com/images/U/uipath-logo-A1C4FA204C-seeklogo.com.png"/> UiPath
   <img height="40"  alt= "TestNG" src="https://cdn-anlbg.nitrocdn.com/dKKErbUyoNysjatCgltCzbTJJilTMwLi/assets/static/optimized/rev-707c49b/wp-content/uploads/2016/12/TestNG-e1483024713865.png"/> TestNG
   <img height="40"  alt= "nunit" src="https://nunit.org/img/nunit.svg"/> nUnit
   <img height="40"  alt= "ASP.Net" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"/> ASP.NET
